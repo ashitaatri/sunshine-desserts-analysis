@@ -3,7 +3,7 @@ SQL, Excel, and Tableau-based HR data analysis project focused on salary trends,
 
 ### 📊 Dashboard Preview
 
-![Dashboard Screenshot](dashboard_screenshot.png)
+<img width="736" alt="dashboard_screenshot" src="https://github.com/user-attachments/assets/a1c78e6a-7c61-4ce0-90de-dbb5aa4eed1b" />
 
 
 
