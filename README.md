@@ -1,7 +1,8 @@
 # sunshine-desserts-analysis
 SQL, Excel, and Tableau-based HR data analysis project focused on salary trends, gender balance, and churn insights.
 
-<img width="619" height="251" alt="image" src="https://github.com/user-attachments/assets/d6499c0d-4909-4646-8acc-1a4ded48b3d1" />
+Tableau/dashboard_screenshot.png
+
 
 
 
